@@ -1,4 +1,4 @@
 <template>
   <h1>Hi</h1>
-  <H2>Bye</H2>
+  <h2>Bye</h2>
 </template>
