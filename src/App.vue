@@ -1,6 +1,8 @@
+<script setup>
+import Header from "./components/Header.vue";
+</script>
 <template>
-  <h1>Hi</h1>
-  <h2>Bye</h2>
-  <h3>minecraft</h3>
-  <h2>Bye</h2>
+  <body class="container-xl">
+    <Header />
+  </body>
 </template>
