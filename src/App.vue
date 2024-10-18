@@ -2,7 +2,8 @@
 import Header from "./components/Header.vue";
 </script>
 <template>
-  <body class="container-xl">
+  <body>
     <Header />
+    <Router-view></Router-view>
   </body>
 </template>
