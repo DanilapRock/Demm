@@ -3,8 +3,8 @@ import App from "./App.vue";
 import Home from "./pages/Home.vue";
 import Ba from "./pages/Ba.vue";
 
-import VueSplide from "@splidejs/vue-splide";
-import "@splidejs/vue-splide/css";
+import VueSplide from ".splidejs/vue-splide";
+import ".splidejs/vue-splide/css";
 
 import "./assets/css/tailwind.css";
 
