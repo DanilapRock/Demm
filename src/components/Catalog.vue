@@ -1,7 +1,7 @@
 <template>
   <section class="max-w-7xl mx-auto max-[1300px]:px-[3%]">
     <div
-      class="w-ful grid grid-cols-[2fr,1.5fr,2fr,2.7fr] grid-rows-[1fr,1fr] max-md:grid-cols-[1.8fr,2fr,1.8fr] max-[580px]:grid-cols-[1fr] max-md:grid-rows-[1fr,1fr,1fr,1fr,1fr] my-[3%] gap-6 text-white text-[clamp(1rem,2vw,1.5rem)] max-[360px]:gap-3"
+      class="w-ful grid grid-cols-[2fr,1.5fr,2fr,2.7fr] grid-rows-[1fr,1fr] max-md:grid-cols-[1.8fr,2fr,1.8fr] max-[580px]:grid-cols-[1fr] max-md:grid-rows-[1fr,1fr,1fr] my-[3%] gap-6 text-white text-[clamp(1rem,2vw,1.5rem)] max-[360px]:gap-3"
     >
       <div
         class="group max-h-[310px] relative max-md:order-1 max-md:max-h-[280px] max-[360px]:max-h-[170px]"
